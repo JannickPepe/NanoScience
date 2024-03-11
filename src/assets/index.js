@@ -9,6 +9,9 @@ import grid from "./grid.png";
 import check2 from "./check-02.svg";
 import loading1 from "./loading-01.svg";
 import yourlogo from "./yourlogo.svg";
+import moleculemodel1nobg from "./moleculemodel1nobg.png";
+import moleculevr3nobg from "./moleculevr3nobg.png";
+import atommodel1nobg from "./atommodel1nobg.png";
 import homeSmile from "./home-smile.svg";
 import vriconnobg from "./vr_icon_nobg_small.png";
 import moleculeicon from "./molecule_icon.png";
@@ -158,4 +161,7 @@ export {
   personvrmole,
   moleculeicon,
   bindingmolecules,
+  moleculemodel1nobg,
+  moleculevr3nobg,
+  atommodel1nobg,
 };
