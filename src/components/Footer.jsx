@@ -12,6 +12,7 @@ const Footer = () => {
 
         <ul className="flex gap-5 flex-wrap">
           {socials.map((item) => (
+            // eslint-disable-next-line react/jsx-no-target-blank
             <a
               key={item.id}
               href={item.url}

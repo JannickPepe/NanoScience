@@ -12,7 +12,7 @@ const Notification = ({ className, title }) => {
         src={personvrmole}
         width={62}
         height={62}
-        alt="image"
+        alt="person with VR"
         className="rounded-xl"
       />
 
